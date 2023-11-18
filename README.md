@@ -1,2 +1,0 @@
-# game
-Lista de jogos
